@@ -10,6 +10,7 @@ VR experiments with Unity.
 ![Activity Indicator](/GIFs/activity_indicator.gif)
 
 [Download APK (without DOF effect)](/APKs/activity_indicator.apk)
+
 [Download APK (with Post-Processing Effects)](/APKs/activity_indicator_pp.apk)
 
 
